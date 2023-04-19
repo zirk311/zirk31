@@ -1,0 +1,32 @@
+<!doctype css
+>
+h1
+{  
+
+}
+body
+{
+    background-color: black;
+}
+#carte
+{
+    
+   margin:0 auto;
+   
+   text-align: center;
+   
+   align-content: center; 
+}
+li
+{
+    list-style-type: none;
+    color: rgba(255, 255, 255, 0.979);
+}
+<div>
+{
+    color: rgba(255, 255, 255, 0.979);  
+}
+h2 
+{
+    color: rgba(255, 255, 255, 0.979);  
+} 
